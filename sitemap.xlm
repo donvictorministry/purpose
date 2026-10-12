@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://YOUR-DOMAIN/</loc><priority>1.0</priority></url>
+  <url><loc>https://YOUR-DOMAIN/introduction</loc><priority>0.8</priority></url>
+  <url><loc>https://YOUR-DOMAIN/table-of-contents</loc><priority>0.8</priority></url>
+  <url><loc>https://YOUR-DOMAIN/chapter-1-created-for-a-purpose</loc><priority>0.8</priority></url>
+  <url><loc>https://YOUR-DOMAIN/chapter-2-trusting-gods-plan-through-trials</loc><priority>0.8</priority></url>
+  <url><loc>https://YOUR-DOMAIN/chapter-3-discovering-your-unique-gifts</loc><priority>0.8</priority></url>
+  <url><loc>https://YOUR-DOMAIN/chapter-4-living-with-eternal-purpose</loc><priority>0.8</priority></url>
+  <url><loc>https://YOUR-DOMAIN/chapter-5-walking-in-purpose-every-day</loc><priority>0.8</priority></url>
+  <url><loc>https://YOUR-DOMAIN/closing-a-prayer-for-purpose</loc><priority>0.8</priority></url>
+  <url><loc>https://YOUR-DOMAIN/about-the-author</loc><priority>0.8</priority></url>
+  <url><loc>https://YOUR-DOMAIN/support-our-mission</loc><priority>0.8</priority></url>
+</urlset>
