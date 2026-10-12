@@ -84,3 +84,6 @@ html,body{height:100%;overflow:hidden;overscroll-behavior:none}
 
 .dvTocLink{display:block;padding:.8rem 0;border-bottom:1px solid var(--dv-line);font-weight:700;text-decoration:none}
 .dvArticle .dvSubtitle{margin:.2rem 0 .8rem;font-weight:400;color:var(--dv-mut)}
+
+.dvHi{background:linear-gradient(transparent 8%,rgba(255,214,10,.55) 8%);color:inherit;padding:0 .12rem;border-radius:.2rem}
+[data-dv-theme=dark] .dvHi{background:rgba(255,214,10,.28)}
